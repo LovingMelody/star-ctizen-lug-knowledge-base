@@ -64,6 +64,11 @@ This wiki is a collection of information on how to run Star Citizen on Linux, as
 > - Wine 8.x runners may not be compatible with prefixes created by previous Wine 7.x runners. If you experience inexplicable frame drops, crashes, or other issues after switching to an 8.x runner, try re-creating your wine prefix. You may copy out the `data.p4k` file beforehand to avoid a complete game redownload.
 
 #### Nvidia News
+> (Dec 12, 2023) **Graphical artifacts from previous frames on 545 drivers**
+> - If you are experiencing previous frames appearing on your screen, downgrade to the latest 535 drivers
+> - Latest affected driver tested: 545.29.06
+> - Latest 535 driver test: 535.146.02
+
 > (Oct 9, 2023) **Crash when taking shield damage in-game***
 > - There is a shield rendering bug that causes the game to crash. It seems to affect 1000 series cards.
 > - There is currently no known workaround other than switching cards. We recommend AMD.
